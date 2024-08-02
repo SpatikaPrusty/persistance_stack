@@ -1,7 +1,3 @@
-# Terraform S3 Bucket Deployment
-
-This repository contains Terraform configuration files for deploying an AWS S3 bucket.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following:
