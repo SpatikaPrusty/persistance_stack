@@ -14,6 +14,8 @@ First, clone the repository containing the Terraform configuration files to your
 
 ```sh
 git clone https://github.com/SpatikaPrusty/persistance_stack.git
+```
+```sh
 cd persistance_stack
 ```
 
